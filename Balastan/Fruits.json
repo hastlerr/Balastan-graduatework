@@ -1,0 +1,122 @@
+[ 
+ {
+ "pictureImage": "alma",
+ "pictureWordString": "Алма",
+ "audioWord": "alma",
+ },
+ {
+ "pictureImage": "almurut",
+ "pictureWordString": "Алмурут",
+ "audioWord": "almurut",
+ },
+ {
+ "pictureImage": "alcha2",
+ "pictureWordString": "Алча",
+ "audioWord": "alcha",
+ },
+ {
+ "pictureImage": "ananas",
+ "pictureWordString": "Ананас",
+ "audioWord": "ananas",
+ },
+ {
+ "pictureImage": "anar",
+ "pictureWordString": "Анар",
+ "audioWord": "anar",
+ },
+ {
+ "pictureImage":"apelsin2",
+ "pictureWordString": "Апельсин",
+ "audioWord": "mzapelsin",
+ },
+ {
+ "pictureImage": "badyran",
+ "pictureWordString": "Бадыраң",
+ "audioWord": "badyran",
+ },
+ {
+ "pictureImage": "banan",
+ "pictureWordString": "Банан",
+ "audioWord": "banan",
+ },
+ {
+ "pictureImage": "buldurkon",
+ "pictureWordString": "Бүлдүркөн",
+ "audioWord": "buldurkon",
+ },
+ {
+ "pictureImage": "darbyz2",
+ "pictureWordString": "Дарбыз",
+ "audioWord": "darbyz",
+ },
+ {
+ "pictureImage": "kapusta",
+ "pictureWordString": "Капуста",
+ "audioWord": "kapusta",
+ },
+ {
+ "pictureImage": "kara_oruk",
+ "pictureWordString": "Кара өрүк",
+ "audioWord": "kara_oruk",
+ },
+ {
+ "pictureImage": "kartoshka",
+ "pictureWordString": "Картошка",
+ "audioWord": "kartoshka",
+ },
+ {
+ "pictureImage": "koon",
+ "pictureWordString": "Коон",
+ "audioWord": "koon",
+ },
+ {
+ "pictureImage": "m_kok_piyaz",
+ "pictureWordString": "Көк пияз",
+ "audioWord": "kokpiyaz",
+ },
+ {
+ "pictureImage": "kulpunay",
+ "pictureWordString": "Кулпунай",
+ "audioWord": "kulpunay",
+ },
+ {
+ "pictureImage": "kyzylcha",
+ "pictureWordString": "Кызылча",
+ "audioWord": "kyzylcha",
+ },
+ {
+ "pictureImage": "limon2",
+ "pictureWordString": "Лимон",
+ "audioWord": "limon",
+ },
+ {
+ "pictureImage": "mandarin",
+ "pictureWordString": "Мандарин",
+ "audioWord": "mandarin",
+ },
+ {
+ "pictureImage": "oruk",
+ "pictureWordString": "Өрүк",
+ "audioWord": "oruk",
+ },
+ {
+ "pictureImage": "piyaz2",
+ "pictureWordString": "Пияз",
+ "audioWord": "piyaz",
+ },
+ {
+ "pictureImage": "pomidor",
+ "pictureWordString": "Помидор",
+ "audioWord": "pomidor",
+ },
+ {
+ "pictureImage": "sabiz",
+ "pictureWordString": "Сабиз",
+ "audioWord": "sabiz",
+ },
+ {
+ "pictureImage": "sarymsak",
+ "pictureWordString": "Сарымсак",
+ "audioWord": "sarymsak",
+ }
+]

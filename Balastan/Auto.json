@@ -1,0 +1,122 @@
+ [
+  {
+  "pictureImage": "u_at_araba",
+  "pictureWordString": "Ат араба",
+  "audioWord": "at_araba",
+  },
+  {
+  "pictureImage": "velosiped",
+  "pictureWordString": "Велосипед",
+  "audioWord": "velosiped",
+  },
+  {
+  "pictureImage": "u_moto",
+  "pictureWordString": "Мотоцикл",
+  "audioWord": "moto",
+  },
+  {
+  "pictureImage": "u_kvadro",
+  "pictureWordString": "Квадроцикл",
+  "audioWord": "kvadro",
+  },
+  {
+  "pictureImage": "u_unaa",
+  "pictureWordString": "Жеңил унаа",
+  "audioWord": "jenil_unaa",
+  },
+  {
+  "pictureImage":"u_sport",
+  "pictureWordString": "Спорттук унаа",
+  "audioWord": "sport_unaa",
+  },
+  {
+  "pictureImage": "u_limuzin",
+  "pictureWordString": "Лимузин",
+  "audioWord": "limuzin",
+  },
+  {
+  "pictureImage": "u_taxi",
+  "pictureWordString": "Такси",
+  "audioWord": "taxi",
+  },
+  {
+  "pictureImage": "u_jkk",
+  "pictureWordString": "Жол кайгуул унаасы",
+  "audioWord": "jol_kyzmaty",
+  },
+  {
+  "pictureImage": "u_tez",
+  "pictureWordString": "Тез жардам унаасы",
+  "audioWord": "tez_jardam",
+  },
+  {
+  "pictureImage": "u_pojar",
+  "pictureWordString": "Өрт өчүргүч унаасы ", 
+  "audioWord": "pojar",
+  },
+  {
+  "pictureImage": "u_bus",
+  "pictureWordString": "Автобус",
+  "audioWord": "avtobus",
+  },
+  {
+  "pictureImage": "u_troleybus",
+  "pictureWordString": "Троллейбус",
+  "audioWord": "troleybus",
+  },
+  {
+  "pictureImage": "u_poezd",
+  "pictureWordString": "Поезд",
+  "audioWord": "poezd",
+  },
+  {
+  "pictureImage": "u_traktor",
+  "pictureWordString": "Трактор",
+  "audioWord": "traktor",
+  },
+  {
+  "pictureImage": "u_kombain",
+  "pictureWordString": "Комбайн",
+  "audioWord": "kombain",
+  },
+  {
+  "pictureImage": "u_kamaz",
+  "pictureWordString": "Жүк ташуучу унаа",
+  "audioWord": "kamaz",
+  },
+  {
+  "pictureImage": "u_jel_kayiyk",
+  "pictureWordString": "Жел кайык",
+  "audioWord": "jel_kayiyk",
+  },
+  {
+  "pictureImage": "u_kayik",
+  "pictureWordString": "Кайык",
+  "audioWord": "kayuk",
+  },
+  {
+  "pictureImage": "u_yahta",
+  "pictureWordString": "Яхта",
+  "audioWord": "yahta",
+  },
+  {
+  "pictureImage": "u_keme",
+  "pictureWordString": "Кеме",
+  "audioWord": "keme",
+  },
+  {
+  "pictureImage": "u_tik_uchak",
+  "pictureWordString": "Тик учак",
+  "audioWord": "tik_uchak",
+  },
+  {
+  "pictureImage": "u_uchak",
+  "pictureWordString": "Учак",
+  "audioWord": "uchak",
+  },
+  {
+  "pictureImage": "u_raketa",
+  "pictureWordString": "Ракета",
+  "audioWord": "raketa",
+  }
+]

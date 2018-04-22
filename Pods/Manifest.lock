@@ -1,0 +1,35 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - JSONModel (1.2.0)
+  - KVNProgress (2.2.4)
+  - QuickBlox (2.7.2)
+
+DEPENDENCIES:
+  - AFNetworking
+  - JSONModel
+  - KVNProgress
+  - QuickBlox
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  JSONModel: 12523685c4b623553ccf844bbbf7007624317b2c
+  KVNProgress: 541edcea5a1fef592aceac8d791a410d38cb499d
+  QuickBlox: 99d8b2db8df393e6b38e601a9d3ed2d0dd4b4db3
+
+PODFILE CHECKSUM: 087d2dfa7af0377e353d019b118218381d1e65fb
+
+COCOAPODS: 1.1.0.rc.2

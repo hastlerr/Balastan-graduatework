@@ -1,0 +1,146 @@
+ [
+  {
+  "audioFairyTale": "j_akylduu_bala",
+  "fairyTaleNameImage": "j_akylduu_bala0",
+  
+  "slides":[
+            {
+            "time":"5",
+            "fairyTaleCurrentImage":"j_akylduu_bala",
+            },
+            {
+            "time":"80.15",
+            "fairyTaleCurrentImage":"j_akylduu_bala2"
+            },
+            {
+            "time":"120.10",
+            "fairyTaleCurrentImage":"j_akylduu_bala4"
+            },
+            {
+            "time":"150.79",
+            "fairyTaleCurrentImage":"j_akylduu_bala3"
+            },
+            ],
+  },
+  
+  {
+  "audioFairyTale": "j_balasy_mene_atasy",
+  "fairyTaleNameImage": "j_balasy_menen_atasy0",
+  
+  "slides":[
+            {
+            "time":"5",
+            "fairyTaleCurrentImage":"j_balasy_menen_atasy2",
+            },
+            {
+            "time":"32",
+            "fairyTaleCurrentImage":"j_balasy_menen_atasy"
+            },
+            ],
+  },
+  
+  {
+  "audioFairyTale": "j_nan",
+  "fairyTaleNameImage": "j_nan_jonundo0",
+  
+  "slides":[
+            {
+            "time":"5",
+            "fairyTaleCurrentImage":"j_nan_jonundo",
+            },
+            {
+            "time":"75",
+            "fairyTaleCurrentImage":"j_nan_jonundo3"
+            },
+            {
+            "time":"99",
+            "fairyTaleCurrentImage":"j_nan_jonundo4"
+            },
+            {
+            "time":"128",
+            "fairyTaleCurrentImage":"j_nan_jonundo5"
+            },
+            {
+            "time":"205",
+            "fairyTaleCurrentImage":"j_nan_jonundo6"
+            },
+            {
+            "time":"230",
+            "fairyTaleCurrentImage":"j_nan_jonundo2"
+            },
+            ],
+  },
+  
+  {
+  "audioFairyTale": "j_yrys_aldy_yntymak",
+  "fairyTaleNameImage": "j_yrys_aldy_yntymak0",
+  
+  "slides":[
+            {
+            "time":"5",
+            "fairyTaleCurrentImage":"j_yrys_aldy_yntymak3",
+            },
+            {
+            "time":"49",
+            "fairyTaleCurrentImage":"j_yrys_aldy_yntymak5"
+            },
+            {
+            "time":"59",
+            "fairyTaleCurrentImage":"j_yrys_aldy_yntymak"
+            },
+            {
+            "time":"79",
+            "fairyTaleCurrentImage":"j_yrys_aldy_yntymak2"
+            },
+            {
+            "time":"165",
+            "fairyTaleCurrentImage":"j_yrys_aldy_yntymak4"
+            },
+            ],
+  },
+  {
+  "audioFairyTale": "j_altynkysh_jana_ackozchal",
+  "fairyTaleNameImage": "title_altyn_kush",
+  
+  "slides":[
+            {
+            "time":"3",
+            "fairyTaleCurrentImage":"j_altyn_kush3",
+            },
+            {
+            "time":"35",
+            "fairyTaleCurrentImage":"j_altyn_kush4"
+            },
+            {
+            "time":"195",
+            "fairyTaleCurrentImage":"j_altyn_kush2"
+            },
+            {
+            "time":"219",
+            "fairyTaleCurrentImage":"j_altyn_kush"
+            },
+            ],
+  },
+  
+  {
+  "audioFairyTale": "j_ubadaga_bek_jigit",
+  "fairyTaleNameImage": "title_ubada",
+  
+  "slides":[
+            {
+            "time":"5",
+            "fairyTaleCurrentImage":"j_ubadaga_bek",
+            },
+            {
+            "time":"260",
+            "fairyTaleCurrentImage":"j_ubadaga_bek3"
+            },
+            {
+            "time":"287",
+            "fairyTaleCurrentImage":"j_ubadaga_bek2"
+            },
+            ],
+  }
+  
+  
+  ]
